@@ -9,4 +9,5 @@ Technology: **C#, .NET MAUI**
 - Display full or partial schedules.
 
 ## Documentation
-- `Design Docs.pdf` – application functionality and workflow
+
+- `Design Docs.pdf` – application functionality and workflow.
