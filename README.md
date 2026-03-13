@@ -6,4 +6,4 @@ Technology: **C#, .NET MAUI**
 <br>
 Projects:
 
-• [time-management-app](https://github.com/immamy/cross-platform-application/time-management-app.git)
+• [time-management-app](https://github.com/immamy/cross-platform-application/tree/main/time-management-app)
