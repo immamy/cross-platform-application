@@ -3,7 +3,5 @@ These projects focus on cross-platform-application development using C# .NET MAU
 
 Technology: **C#, .NET MAUI**
 
-<br>
-Projects:
-
-• [time-management-app](https://github.com/immamy/cross-platform-application/tree/main/time-management-app)
+## Projects
+- [time-management-app](https://github.com/immamy/cross-platform-application/tree/main/time-management-app)
